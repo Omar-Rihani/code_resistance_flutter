@@ -11,12 +11,4 @@ A Flutter application to calculate resistance values, support CMS (Chip Mounted 
 - **3-Digit CMS:** Calculate resistance values using 3-digit CMS codes.
 - **4-Digit CMS:** Calculate resistance values using 4-digit CMS codes.
 - **Datasheet Viewer:** View datasheets of electronic components for reference.
-- **Upload Video:** Upload videos directly from your device.
 
-## Uploading a Video
-
-### Steps to Upload a Video
-
-1. Launch the app and navigate to the **Upload Video** screen from the main menu.
-2. Click the **Select Video** button.
-3. Browse to the folder where your video file is located:
